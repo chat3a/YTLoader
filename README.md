@@ -19,8 +19,16 @@
 - MP4 影像 (.mp4)
 - MP3 音訊 (.mp3)
 
+# 需求
+
+需安裝 Python 3 或更高版本
+
 # 更新日誌
 
 Version 1.0 | 全新的UI介面/功能優化
+
+# 下載
+
+[YTLoader.exe](main/YTLoader.exe)
 
 # ! 目前還是測試階段, 可能還會有許多BUG
