@@ -30,6 +30,6 @@
 
 # 下載
 
-[點我下載 - YTLoader.exe](YTLoader.exe)
+[點我下載 - YTLoader.exe](https://github.com/chat3a/YTLoader/releases/tag/%E6%AA%94%E6%A1%88)
 
 # ! 目前還是測試階段, 可能還會有許多BUG
