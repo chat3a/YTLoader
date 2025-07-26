@@ -32,7 +32,7 @@ Windows 11
 
 # 下載
 
-[點我下載 - YTLoader.exe](https://github.com/chat3a/YTLoader/releases/tag/%E6%AA%94%E6%A1%88)
+[點我下載](https://github.com/chat3a/YTLoader/releases/tag/%E6%AA%94%E6%A1%88)
 
 # 如何開啟檔案?
 
